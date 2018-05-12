@@ -20,3 +20,6 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+
+All credits goes to Shaun Kelly aka 6stringbeliever:
+https://github.com/6stringbeliever/nuxt_wp/tree/v2.0
