@@ -24,3 +24,16 @@
     }
   }
 </script>
+
+<style lang="scss">
+  .container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    max-width: 1080px;
+  }
+
+  .main-contents {
+    margin-top: -3.5rem;
+  }
+</style>
